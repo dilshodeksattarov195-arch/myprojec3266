@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filterferify",
+        "uuid": 522560,
+        "checksum": "imrc"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
